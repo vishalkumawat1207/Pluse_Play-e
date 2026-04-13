@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PulsePlay</string>
+    <string name="notification_channel_playback">Music playback</string>
+    <string name="auth_headline">Millions of songs.\nFree on PulsePlay.</string>
+    <string name="auth_sign_up_free">Sign up free</string>
+    <string name="auth_log_in">Log in</string>
+</resources>
